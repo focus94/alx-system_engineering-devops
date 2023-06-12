@@ -1,2 +1,0 @@
-#!/bin/bash
-fid . -type d -not -name '.' | wc -l
