@@ -1,2 +1,2 @@
 #!/bin/bash
-orintf "%x\n" $DECIMAL
+orintf "%X\n" $DECIMAL
